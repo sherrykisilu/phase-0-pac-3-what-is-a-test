@@ -81,8 +81,7 @@ We can use `console.log` to take a look at the value of the `message` variable.
 To do that, first type `console.log(message);` on the last line of `index.js`
 and save the file. Next, navigate to the terminal, and type the following
 command in the command line and hit enter (be sure you're still in the lab's
-directory):
-
+directory
 ```console
 $ node index.js
 ```
